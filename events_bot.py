@@ -264,6 +264,14 @@ def labels(titles):
 
 
 def photo(article, slug):
+    """Фото раз в 14 дней сверяем с источником, между сверками берём сохранённое"""
+    f = IMG / f"{slug}.webp"; mark = IMG / f"{slug}.txt"
+    try:
+        m = json.loads(mark.read_text(encoding="utf-8"))
+        if f.exists() and (TODAY - dt.date.fromisoformat(m["day"])).days < 14:
+            return m["ph"]
+    except (OSError, ValueError, KeyError, TypeError):
+        pass
     d = api(action="query", titles=article, redirects=1, prop="pageimages", piprop="name|thumbnail", pilicense="free", pithumbsize=1000)
     pg = (d.get("query", {}).get("pages") or [{}])[0]
     fn = pg.get("pageimage"); th = pg.get("thumbnail", {}).get("source")
@@ -277,8 +285,7 @@ def photo(article, slug):
     lic = em.get("LicenseShortName", {}).get("value", "")
     if not lic:
         return None
-    f = IMG / f"{slug}.webp"; mark = IMG / f"{slug}.txt"
-    if not f.exists() or not mark.exists() or mark.read_text(encoding="utf-8") != fn:
+    if not f.exists() or not mark.exists() or fn not in mark.read_text(encoding="utf-8"):
         r = get(th)
         if not r:
             return None
@@ -287,9 +294,10 @@ def photo(article, slug):
             return None
         im.thumbnail((900, 1100), Image.LANCZOS)
         im.save(f, "WEBP", quality=76, method=6)
-        mark.write_text(fn, encoding="utf-8")
     author = re.sub(r"\s+", " ", BeautifulSoup(em.get("Artist", {}).get("value", ""), "html.parser").get_text(" ", strip=True))[:70] or "Wikimedia Commons"
-    return {"src": f"img/{slug}.webp", "by": author, "lic": lic, "page": ii.get("descriptionurl")}
+    ph = {"src": f"img/{slug}.webp", "by": author, "lic": lic, "page": ii.get("descriptionurl")}
+    mark.write_text(json.dumps({"fn": fn, "ph": ph, "day": TODAY.isoformat()}, ensure_ascii=False), encoding="utf-8")
+    return ph
 
 
 def slugify(s):

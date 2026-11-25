@@ -135,7 +135,14 @@
   "Las Vegas Valley": "Лас-Вегас",
   "Paradise": "Лас-Вегас",
   "Inglewood": "Инглвуд (Лос-Анджелес)",
-  "East Rutherford": "Ист-Ратерфорд (Нью-Йорк)"
+  "East Rutherford": "Ист-Ратерфорд (Нью-Йорк)",
+  "Kyrgyzstan": "Кыргызстан",
+  "Pak Kret": "Паккрет (Бангкок)",
+  "Nonthaburi": "Нонтхабури (Бангкок)",
+  "Goyang": "Коян (Сеул)",
+  "Incheon": "Инчхон",
+  "Saitama": "Сайтама (Токио)",
+  "Tokorozawa": "Токородзава (Токио)"
  },
  "ky": {
   "South Korea": "Түштүк Корея",
@@ -151,7 +158,11 @@
   "Czech Republic": "Чехия",
   "Czechia": "Чехия",
   "Hong Kong": "Гонконг",
-  "Macau": "Макао"
+  "Macau": "Макао",
+  "Kyrgyzstan": "Кыргызстан",
+  "Singapore": "Сингапур",
+  "Birmingham": "Бирмингем",
+  "Pak Kret": "Паккрет (Бангкок)"
  },
  "manual": []
 }
