@@ -350,6 +350,7 @@ def main():
         arts.append(t)
     arts.sort(key=lambda t: (not any(s["country"] == "Kyrgyzstan" for s in t["shows"]), -t["score"]))
     L = labels([s["ct"] for t in arts[:LIMIT * 2] for s in t["shows"]] + [s["country"] for t in arts for s in t["shows"]])
+    BYNAME = {s["city"]: L[s["ct"]] for t in arts for s in t["shows"] if s["ct"] in L}
     ev, seen = [], set()
     for t in arts:
         if len(ev) >= LIMIT:
@@ -364,10 +365,10 @@ def main():
         seen.add(slug)
         sh = []
         for s in sorted(t["shows"], key=lambda s: s["d"][0]):
-            lc, lk = L.get(s["ct"] or "", {}), L.get(s["country"], {})
+            lc, lk = L.get(s["ct"] or "", {}) or BYNAME.get(s["city"], {}), L.get(s["country"], {})
             sh.append({"c": CFG["ru"].get(s["city"]) or lc.get("ru") or s["city"], "ck": CFG["ky"].get(s["city"]) or lc.get("ky") or CFG["ru"].get(s["city"]) or lc.get("ru") or s["city"],
                        "k": CFG["ru"].get(s["country"]) or lk.get("ru") or s["country"], "kk": CFG["ky"].get(s["country"]) or lk.get("ky") or lk.get("ru") or s["country"],
-                       "v": s["venue"], "d": s["d"], "r": s["r"]})
+                       "v": "" if re.search(r"^\W*(n/?a|tba|tbc|tbd)?\W*$", s["venue"], re.I) else s["venue"], "d": s["d"], "r": s["r"]})
         ev.append({"id": slug, "a": t["artist"][0].upper() + t["artist"][1:], "t": "" if t["title"].startswith("List of") else t["title"].strip('"'), "type": "concert", "img": ph["src"], "by": ph["by"], "lic": ph["lic"], "pg": ph["page"],
                    "src": "https://en.wikipedia.org/wiki/" + urllib.parse.quote(t["wiki"].replace(" ", "_")), "s": sh, "w": t["views"]})
     for m in CFG["manual"]:   # свои события из config.json: спорт, фестивали, местные концерты
