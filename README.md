@@ -1,2 +1,9 @@
 # globus-events
-World concerts feed: dates from Wikipedia, free photos from Wikimedia Commons
+
+Афиша мировых концертов для globus-tour.kg/koncerty/. Обновляется сама каждый день в 07:40 (Бишкек), без ключей, без ИИ и без цен.
+
+- `events_bot.py` — даты из Wikipedia, города по-русски и по-кыргызски из Wikidata, свободные фото из Wikimedia Commons.
+- `config.json` — `block_artists` (не показывать артиста), `manual` (добавить своё событие), `ru` / `ky` (поправить название города).
+- `docs/events.json` — результат, его читает сайт.
+
+Сбой источника: старая афиша остаётся на месте, прошедшие даты сайт скрывает сам.

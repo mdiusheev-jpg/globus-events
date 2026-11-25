@@ -1,0 +1,26 @@
+name: update
+on:
+  schedule:
+    - cron: "40 1 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: update
+jobs:
+  events:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4 lxml pillow
+      - run: python -u events_bot.py
+      - name: save
+        run: |
+          git config user.name "events-bot"
+          git config user.email "events-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "events $(date -u +%F)"
+          git push
