@@ -1,1 +1,1 @@
-2018_RiP_-_The_Neighbourhood_-_by_2eight_-_8SC8869.jpg
+{"fn": "2018_RiP_-_The_Neighbourhood_-_by_2eight_-_8SC8869.jpg", "ph": {"src": "img/the-neighbourhood.webp", "by": "Stefan Brending ( 2eight )", "lic": "CC BY-SA 4.0", "page": "https://commons.wikimedia.org/wiki/File:2018_RiP_-_The_Neighbourhood_-_by_2eight_-_8SC8869.jpg"}, "day": "2026-11-25"}

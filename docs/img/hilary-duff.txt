@@ -1,1 +1,1 @@
-Hilary_Duff_(Small_Rooms_Big_Nerves_tour_-_February_15_2026)_(1).jpg
+{"fn": "Hilary_Duff_(Small_Rooms_Big_Nerves_tour_-_February_15_2026)_(1).jpg", "ph": {"src": "img/hilary-duff.webp", "by": "TraceAdam", "lic": "CC BY-SA 4.0", "page": "https://commons.wikimedia.org/wiki/File:Hilary_Duff_(Small_Rooms_Big_Nerves_tour_-_February_15_2026)_(1).jpg"}, "day": "2026-11-25"}

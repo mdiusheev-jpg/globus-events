@@ -1,1 +1,1 @@
-Metallica_March_2024.jpg
+{"fn": "Metallica_March_2024.jpg", "ph": {"src": "img/metallica.webp", "by": "Library of Congress Life", "lic": "CC0", "page": "https://commons.wikimedia.org/wiki/File:Metallica_March_2024.jpg"}, "day": "2026-11-25"}

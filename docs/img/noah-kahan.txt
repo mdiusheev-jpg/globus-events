@@ -1,1 +1,1 @@
-Noah_Kahan_at_Glastonbury_Festival_2025_04_(cropped)_(again).jpg
+{"fn": "Noah_Kahan_at_Glastonbury_Festival_2025_04_(cropped)_(again).jpg", "ph": {"src": "img/noah-kahan.webp", "by": "Raph_PH", "lic": "CC BY 4.0", "page": "https://commons.wikimedia.org/wiki/File:Noah_Kahan_at_Glastonbury_Festival_2025_04_(cropped)_(again).jpg"}, "day": "2026-11-25"}

@@ -1,1 +1,1 @@
-BIGBANG_2011_(current_members_since_2023).jpg
+{"fn": "BIGBANG_2011_(current_members_since_2023).jpg", "ph": {"src": "img/bigbang.webp", "by": "Korea.net / Korean Culture and Information Service", "lic": "CC BY-SA 2.0", "page": "https://commons.wikimedia.org/wiki/File:BIGBANG_2011_(current_members_since_2023).jpg"}, "day": "2026-11-25"}

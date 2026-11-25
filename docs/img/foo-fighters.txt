@@ -1,1 +1,1 @@
-Glasto2023.jpg
+{"fn": "Glasto2023.jpg", "ph": {"src": "img/foo-fighters.webp", "by": "Raph_PH", "lic": "CC BY 2.0", "page": "https://commons.wikimedia.org/wiki/File:Glasto2023.jpg"}, "day": "2026-11-25"}

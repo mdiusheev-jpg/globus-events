@@ -1,1 +1,1 @@
-Westlife_2021_Warner_Music_New_Zealand.png
+{"fn": "Westlife_2021_Warner_Music_New_Zealand.png", "ph": {"src": "img/westlife.webp", "by": "Warner Music New Zealand", "lic": "CC BY 3.0", "page": "https://commons.wikimedia.org/wiki/File:Westlife_2021_Warner_Music_New_Zealand.png"}, "day": "2026-11-25"}

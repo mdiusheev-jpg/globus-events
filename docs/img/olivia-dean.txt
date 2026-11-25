@@ -1,1 +1,1 @@
-Olivia_Dean_-_Sabrina_Carpenter_at_BST_Hyde_Park_-_20250706_-_115_(cropped)_(cropped).jpg
+{"fn": "Olivia_Dean_-_Sabrina_Carpenter_at_BST_Hyde_Park_-_20250706_-_115_(cropped)_(cropped).jpg", "ph": {"src": "img/olivia-dean.webp", "by": "Raph_PH", "lic": "CC BY 4.0", "page": "https://commons.wikimedia.org/wiki/File:Olivia_Dean_-_Sabrina_Carpenter_at_BST_Hyde_Park_-_20250706_-_115_(cropped)_(cropped).jpg"}, "day": "2026-11-25"}

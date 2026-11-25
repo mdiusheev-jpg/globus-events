@@ -1,1 +1,1 @@
-Don_Toliver_by_Sanchez_Productions.jpg
+{"fn": "Don_Toliver_by_Sanchez_Productions.jpg", "ph": {"src": "img/don-toliver.webp", "by": "Sanchez Productions", "lic": "CC BY-SA 4.0", "page": "https://commons.wikimedia.org/wiki/File:Don_Toliver_by_Sanchez_Productions.jpg"}, "day": "2026-11-25"}

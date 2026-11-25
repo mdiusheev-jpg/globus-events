@@ -1,1 +1,1 @@
-Gracie_Abrams_@_El_Rey_Theatre_03_05_2022_(52297976064)_(cropped)_(2).jpg
+{"fn": "Gracie_Abrams_@_El_Rey_Theatre_03_05_2022_(52297976064)_(cropped)_(2).jpg", "ph": {"src": "img/gracie-abrams.webp", "by": "Justin Higuchi", "lic": "CC BY 2.0", "page": "https://commons.wikimedia.org/wiki/File:Gracie_Abrams_@_El_Rey_Theatre_03_05_2022_(52297976064)_(cropped)_(2).jpg"}, "day": "2026-11-25"}

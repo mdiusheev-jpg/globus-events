@@ -1,1 +1,1 @@
-Katseye_at_Wango_Tango_2025_(cropped).jpg
+{"fn": "Katseye_at_Wango_Tango_2025_(cropped).jpg", "ph": {"src": "img/katseye.webp", "by": "Warmtoned", "lic": "CC BY 4.0", "page": "https://commons.wikimedia.org/wiki/File:Katseye_at_Wango_Tango_2025_(cropped).jpg"}, "day": "2026-11-25"}

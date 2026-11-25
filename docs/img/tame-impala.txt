@@ -1,1 +1,1 @@
-Tame_Impala_at_Flow_Festival_Helsinki_Aug_10_2019_-24.jpg
+{"fn": "Tame_Impala_at_Flow_Festival_Helsinki_Aug_10_2019_-24.jpg", "ph": {"src": "img/tame-impala.webp", "by": "Raph_PH", "lic": "CC BY 2.0", "page": "https://commons.wikimedia.org/wiki/File:Tame_Impala_at_Flow_Festival_Helsinki_Aug_10_2019_-24.jpg"}, "day": "2026-11-25"}

@@ -1,1 +1,1 @@
-Aespa_Love_Your_W_2025_1.jpg
+{"fn": "Aespa_Love_Your_W_2025_1.jpg", "ph": {"src": "img/aespa.webp", "by": "티비텐 TV10", "lic": "CC BY 3.0", "page": "https://commons.wikimedia.org/wiki/File:Aespa_Love_Your_W_2025_1.jpg"}, "day": "2026-11-25"}

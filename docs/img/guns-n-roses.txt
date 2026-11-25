@@ -1,1 +1,1 @@
-GNR_Belgrade_2025_05_(cropped).jpg
+{"fn": "GNR_Belgrade_2025_05_(cropped).jpg", "ph": {"src": "img/guns-n-roses.webp", "by": "AxeAdam20", "lic": "CC0", "page": "https://commons.wikimedia.org/wiki/File:GNR_Belgrade_2025_05_(cropped).jpg"}, "day": "2026-11-25"}

@@ -1,1 +1,1 @@
-Mutya_Keisha_Siobhan.jpg
+{"fn": "Mutya_Keisha_Siobhan.jpg", "ph": {"src": "img/sugababes.webp", "by": "Man Alive!", "lic": "CC BY-SA 3.0", "page": "https://commons.wikimedia.org/wiki/File:Mutya_Keisha_Siobhan.jpg"}, "day": "2026-11-25"}

@@ -1,1 +1,1 @@
-Sienna_Spiro_@_Grammy_Museum_09_30_2026_(55624718710).jpg
+{"fn": "Sienna_Spiro_@_Grammy_Museum_09_30_2026_(55624718710).jpg", "ph": {"src": "img/sienna-spiro.webp", "by": "Justin Higuchi", "lic": "CC BY 4.0", "page": "https://commons.wikimedia.org/wiki/File:Sienna_Spiro_@_Grammy_Museum_09_30_2026_(55624718710).jpg"}, "day": "2026-11-25"}

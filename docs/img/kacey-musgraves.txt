@@ -1,1 +1,1 @@
-KaceyMRoundhouse140524_(11)_(53727552385)_(cropped).jpg
+{"fn": "KaceyMRoundhouse140524_(11)_(53727552385)_(cropped).jpg", "ph": {"src": "img/kacey-musgraves.webp", "by": "Raph_PH", "lic": "CC BY 2.0", "page": "https://commons.wikimedia.org/wiki/File:KaceyMRoundhouse140524_(11)_(53727552385)_(cropped).jpg"}, "day": "2026-11-25"}

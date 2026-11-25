@@ -1,1 +1,1 @@
-ADELAINNYC.jpg
+{"fn": "ADELAINNYC.jpg", "ph": {"src": "img/ad-la.webp", "by": "Saturnmondays", "lic": "CC BY 4.0", "page": "https://commons.wikimedia.org/wiki/File:ADELAINNYC.jpg"}, "day": "2026-11-25"}

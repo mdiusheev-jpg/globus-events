@@ -1,1 +1,1 @@
-BrunoMars24KMagicWorldTourLive_(cropped).jpg
+{"fn": "BrunoMars24KMagicWorldTourLive_(cropped).jpg", "ph": {"src": "img/bruno-mars.webp", "by": "slgckgc", "lic": "CC BY 4.0", "page": "https://commons.wikimedia.org/wiki/File:BrunoMars24KMagicWorldTourLive_(cropped).jpg"}, "day": "2026-11-25"}

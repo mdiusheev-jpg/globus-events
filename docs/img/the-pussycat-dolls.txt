@@ -1,1 +1,1 @@
-The_Pussycat_Dolls_at_their_PCD_Forever_Tour.jpg
+{"fn": "The_Pussycat_Dolls_at_their_PCD_Forever_Tour.jpg", "ph": {"src": "img/the-pussycat-dolls.webp", "by": "MrHyacinth", "lic": "CC BY 4.0", "page": "https://commons.wikimedia.org/wiki/File:The_Pussycat_Dolls_at_their_PCD_Forever_Tour.jpg"}, "day": "2026-11-25"}

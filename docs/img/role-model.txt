@@ -1,1 +1,1 @@
-Tucker_Pillsbury_(edited)_(cropped).jpg
+{"fn": "Tucker_Pillsbury_(edited)_(cropped).jpg", "ph": {"src": "img/role-model.webp", "by": "Heynmynameisemily", "lic": "CC BY 4.0", "page": "https://commons.wikimedia.org/wiki/File:Tucker_Pillsbury_(edited)_(cropped).jpg"}, "day": "2026-11-25"}

@@ -1,1 +1,1 @@
-BTS_during_a_White_House_press_conference_May_31,_2022_(cropped).jpg
+{"fn": "BTS_during_a_White_House_press_conference_May_31,_2022_(cropped).jpg", "ph": {"src": "img/bts.webp", "by": "The White House", "lic": "Public domain", "page": "https://commons.wikimedia.org/wiki/File:BTS_during_a_White_House_press_conference_May_31,_2022_(cropped).jpg"}, "day": "2026-11-25"}

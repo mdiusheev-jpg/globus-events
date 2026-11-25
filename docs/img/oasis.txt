@@ -1,1 +1,1 @@
-Oasis_-_Principality_Stadium,_Cardiff_-_Friday_4th_July_2025_member_collage.jpg
+{"fn": "Oasis_-_Principality_Stadium,_Cardiff_-_Friday_4th_July_2025_member_collage.jpg", "ph": {"src": "img/oasis.webp", "by": "Raph_PH", "lic": "CC BY 4.0", "page": "https://commons.wikimedia.org/wiki/File:Oasis_-_Principality_Stadium,_Cardiff_-_Friday_4th_July_2025_member_collage.jpg"}, "day": "2026-11-25"}

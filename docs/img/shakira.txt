@@ -1,1 +1,1 @@
-2023-11-16_Gala_de_los_Latin_Grammy,_03_(cropped)02.jpg
+{"fn": "2023-11-16_Gala_de_los_Latin_Grammy,_03_(cropped)02.jpg", "ph": {"src": "img/shakira.webp", "by": "Junta de Andalucía", "lic": "CC BY-SA 2.0", "page": "https://commons.wikimedia.org/wiki/File:2023-11-16_Gala_de_los_Latin_Grammy,_03_(cropped)02.jpg"}, "day": "2026-11-25"}

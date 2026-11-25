@@ -1,1 +1,1 @@
-HarryStylesWembley170623_(65_of_93)_(52982678051)_(cropped_2).jpg
+{"fn": "HarryStylesWembley170623_(65_of_93)_(52982678051)_(cropped_2).jpg", "ph": {"src": "img/harry-styles.webp", "by": "Raph_PH", "lic": "CC BY 2.0", "page": "https://commons.wikimedia.org/wiki/File:HarryStylesWembley170623_(65_of_93)_(52982678051)_(cropped_2).jpg"}, "day": "2026-11-25"}
